@@ -4,6 +4,7 @@
 
 ****
 ###　　　　　　　　　　　　Author:Leo
+###　　　　　　　　　    微信:493852107
 ###　　　　　　　　　 E-mail:493852107@qq.com
 
 ===========================
@@ -15,6 +16,7 @@
 	* 翻墙
 	* Git
 	* gitosc.china
+	* w3schools
 	* 移动端App推荐
 	* 其他一些App瞎推荐
 	* 多接触社会，社会是最好的老师
@@ -32,6 +34,10 @@
 
 * gitosc.china
 	* 可以创建很多个`免费`私有项目，项目成员将自己的代码提交到这里。
+
+* w3schools(里面有各种教程)
+	* 国外 http://www.w3schools.com/
+	* 国内 搜索 w3school 
 
 * 移动端App推荐
 	* iOS --> Gank.lu (github上有)
